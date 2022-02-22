@@ -1,4 +1,5 @@
 # Android_opengl_ES_2.0_Examples (Kotlin)
+Here are some basic OpenGL codes for learning!!!
 ## OpenGL (Clear color)
 ![image](https://github.com/ch09830249/Android_opengl_ES_2.0_Examples/blob/master/OpenGL.png)
 ## OpenGL-2 (Triangle)
